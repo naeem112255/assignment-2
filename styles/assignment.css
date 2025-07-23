@@ -1,0 +1,43 @@
+header{
+    max-width: 1140px;
+}
+
+
+.navbar li{
+    list-style: none;
+}
+.navbar{
+    display: flex;
+    text-align: center;
+    gap: 47px;
+}
+.faugei{
+   
+    height: 71px;
+    margin-top: 30px;
+    margin-left: 150px;
+
+    display: flex;
+    justify-content: space-between;
+}
+/* nav section end */
+/* banner section start */
+.text{
+
+    width:570px ;
+    height: 299px;
+    margin-top: 162px;
+}
+.text p{
+   color:#8987a1 ;
+}
+.imag{
+    width: 570px;
+    height: 355px;
+}
+.banner{
+
+    display: flex;
+    margin-left: 150px;
+    margin-top: 221px;
+}
