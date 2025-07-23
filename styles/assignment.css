@@ -43,6 +43,7 @@ header{
 }
 /* header section end */
 /* main section start */
+/* section-1 */
 
 .card{
     width: 270px;
@@ -61,7 +62,8 @@ header{
 
 .card-section{
    max-width: 1140px;
-   max-height: 999.98px;
+   max-height: 1186.88px;
+   margin-left: 140px;
     display: grid;
     grid-template-columns: repeat(4 ,1fr);
 
@@ -69,7 +71,36 @@ header{
 .text-2{
     text-align: center;
 }
-.section-1{
-  
-    margin-left: 140px;
+/* section-2 */
+.bas{
+    width: 286px;
+    height: 286px;
 }
+.store-pic{
+    width: 540px;
+    height: 597px;
+    text-align: center;
+   
+}
+.bass{
+    margin-right: 50%;
+}
+.t-part{
+   max-width: 540px;
+   max-height: 597px;
+}
+.t-part ul{
+    color: #8987a1;
+}
+.section-2{
+
+    display: flex;
+    justify-content: space-between;
+    max-width: 1140px;
+    height: 597px;
+    gap: 20px;
+    margin-left: 150px;
+    margin-top:50px ;
+
+}
+
