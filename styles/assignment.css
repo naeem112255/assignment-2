@@ -41,3 +41,35 @@ header{
     margin-left: 150px;
     margin-top: 221px;
 }
+/* header section end */
+/* main section start */
+
+.card{
+    width: 270px;
+    height: 484.94px;
+}
+.name{
+    text-align: center;
+}
+.btn{
+    width: 270px;
+    height: 50px;
+    color: #FFFFFF;
+    background-color: #E95A08;
+    border: none;
+}
+
+.card-section{
+   max-width: 1140px;
+   max-height: 999.98px;
+    display: grid;
+    grid-template-columns: repeat(4 ,1fr);
+
+}
+.text-2{
+    text-align: center;
+}
+.section-1{
+  
+    margin-left: 140px;
+}
