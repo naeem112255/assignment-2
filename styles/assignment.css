@@ -82,9 +82,7 @@ header{
     text-align: center;
    
 }
-.bass{
-    margin-right: 50%;
-}
+
 .t-part{
    max-width: 540px;
    max-height: 597px;
@@ -102,5 +100,51 @@ header{
     margin-left: 150px;
     margin-top:50px ;
 
+}
+/* section-3start */
+.section-3{
+    max-width: 1140px;
+    height: 138px;
+    text-align: center;
+    margin-top: 50px;
+}
+.section-4{
+    max-width: 1140px;
+  
+    margin-left: 150px;
+    margin-right: 50px;
+    display: flex;
+    gap: 20px;
+}
+/* main closed */
+/* footer part-1 start */
+.btn-2{
+    width: 186px;
+    height: 50px;
+    color: #FFFFFF;
+    background-color: #E95A08;
+    border: none;
+    border-radius: 5px;
+}
+.email{
+    display: flex;
+    gap: 2px;
+}
+.part-1{
+    background-image: url(../assets/news-letter-bg.png);
+    background-position: 100%;
+     width: 1440px;
+    height: 533px;
+    margin-left: 0;
+    text-align: center;
+}
+.join{
+    text-align: center;
+    justify-items: center;
+   margin-top: 110px;
+}
+.part-1{
+   justify-content: center;
+   justify-items: center;
 }
 
